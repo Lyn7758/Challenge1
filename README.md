@@ -22,3 +22,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 Repository Link:
+https://github.com/Lyn7758/Challenge1
+
+Website Link:
+https://lyn7758.github.io/Challenge1/
